@@ -96,3 +96,6 @@ configure proxy server settings in your browser
 ```
 
 use `sqlmap -r /private/tmp/96c915d5fe6becf373e2095cfa2da458` to exploit
+
+
+http://zone.wooyun.org/content/19049
