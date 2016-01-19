@@ -99,3 +99,5 @@ use `sqlmap -r /private/tmp/96c915d5fe6becf373e2095cfa2da458` to exploit
 
 
 http://zone.wooyun.org/content/19049
+http://zone.wooyun.org/content/22453
+http://zone.wooyun.org/content/21289
